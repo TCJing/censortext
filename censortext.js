@@ -21,7 +21,7 @@ function addCensoredWord(word) {
 }
 
 function getCensoredWords() {
-    return censoredWords.contact(customCensoredWords);
+    return censoredWords.concat(customCensoredWords);
 }
 
 exports.censor = censor;

@@ -1,11 +1,20 @@
 {
-  "name": "censorify_jtc",
-  "version": "0.0.1",
+  "name": "censorify_j",
+  "version": "0.0.4",
   "description": "",
   "main": "censortext.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/TCJing/censortext.git"
+  },
+  "keywords":[
+    "censorify_j",
+    "censor",
+    "words"
+  ],
   "author": "jtc",
   "license": "ISC"
 }
